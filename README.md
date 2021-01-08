@@ -9,7 +9,8 @@ opencv
 
 pip install opencv-python
 
-#Usage 
+# Usage 
+
 Just run Detect_face.py python file it will use you PC/Computer webcam to detetct faces 
 ![plot](img.jpg)
 
